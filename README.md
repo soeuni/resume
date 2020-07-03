@@ -22,6 +22,6 @@
 
 
  주소 목록을 별도로 관리 할 수 있다.  
-[hallym]:https://www.hallym.ac.kr
+[hallym]:https://www.hallym.ac.kr/
 
 [한림][hallym]
