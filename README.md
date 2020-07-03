@@ -20,8 +20,11 @@
 
 <a href=www.hallym.ac.kr>한림대학교</a>
 
-
  주소 목록을 별도로 관리 할 수 있다.  
-[hallym]:https://www.hallym.ac.kr/
+[hallym]:http://www.hallym.ac.kr/
 
 [한림][hallym]
+
+*이텔릭체*
+**볼드체**
+~~취소선~~
